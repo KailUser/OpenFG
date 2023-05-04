@@ -1,4 +1,7 @@
 # Welcome to our lib OpenFG
+Status:
+[![Build Status](https://app.travis-ci.com/KailUser/OpenFG.svg?branch=master)](https://app.travis-ci.com/KailUser/OpenFG)
+
 Our small library for python
 
 ## How get an api key?
