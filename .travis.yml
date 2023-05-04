@@ -17,5 +17,7 @@ deploy:
   provider: pypi
   username: "__token__"
   password: "$PYPI_TOKEN"
+  provider: pages
+  edge: true
   on:
     branch: master
